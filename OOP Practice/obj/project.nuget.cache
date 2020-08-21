@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hI0k4cZmWQqWHGLgkCNRYHzmmHSiiIjuRkci8EN8Jwz2OcoPbQqngdrOjIHdMBXnSf7TJds+T3M8iE1HPPoHEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sharl\\source\\repos\\OOP Practice\\OOP Practice\\OOP Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sharl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sharl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
